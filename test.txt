@@ -1,0 +1,24 @@
+
+// /{ {
+//         {dataObj.map((item, index) => {
+//           return (
+
+//               <div key={index}>
+//                 <div class="col">
+//                   <div class="card h-100">
+//                     <div class="card-body">
+//                       <h5 class="card-title">Card title</h5>
+//                       <h6 class="card-title">Card title</h6>
+//                     </div>
+
+//                     <div>
+//                       <a href="#" class="btn btn-primary text-uppercase">
+//                         Button
+//                       </a>
+//                     </div>
+//                   </div>
+//                 </div>
+//               </div>
+
+//           );
+//         })}} }*/</div>
